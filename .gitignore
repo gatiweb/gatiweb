@@ -4,3 +4,11 @@
 design_process.txt
 
 #design_process.txtファイルはバージョン管理から除外されます。
+
+#自動生成される不要なファイルもここで除外できます。
+#例えば、以下のような例です。
+
+.DS_Store
+
+Thumbs.db
+
